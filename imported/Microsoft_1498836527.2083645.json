@@ -1,0 +1,126 @@
+{
+  "_type": "News",
+  "readLink": "https://api.cognitive.microsoft.com/api/v7/news/search?q=",
+  "value": [
+    {
+      "name": "Donald Trump: Fake, fake, fake",
+      "url": "http://www.zeit.de/politik/ausland/2017-06/donald-trump-us-medien-fehde-trumpcare",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.95D60DBF8C1FCEE8A17ABE7947976795&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Dass Donald Trump auf Twitter gern persönlich wird, daran hat man sich gewöhnt. Doch selbst aus den Posts des US-Präsidenten ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Zeit Online"
+        }
+      ],
+      "datePublished": "2017-06-30T14:38:00.0000000Z",
+      "headline": true
+    },
+    {
+      "name": "Beschluss zur Ehe für alle Merkel ist kein Naturgesetz",
+      "url": "http://www.spiegel.de/politik/deutschland/ehe-fuer-alle-angela-merkel-ist-kein-naturgesetz-a-1155262.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.98DBC7A51F31270095582AD666F4EF8A&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Man hatte es über die Jahre fast schon vergessen: Die Kanzlerin der Bundesrepublik Deutschland ist nicht etwa ein ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Spiegel Online"
+        }
+      ],
+      "datePublished": "2017-06-30T14:45:00.0000000Z",
+      "headline": true
+    },
+    {
+      "name": "US-Politik News-Ticker: Nach Trumps Attacke: Moderatorin schlägt zurück",
+      "url": "http://www.focus.de/politik/ausland/usa/us-politik-im-news-ticker-trumps-einreiseverbot-in-kraft-hawaii-stemmt-sich-dagegen_id_7300703.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.261EC004816327EA534FCFC3D3976EEA&pid=News",
+          "width": 700,
+          "height": 365
+        }
+      },
+      "description": "Nach der Wahl Trumps zum US-Präsidenten hat das Image der Vereinigten Staaten im Ausland gelitten. Das geht aus einer Erhebung ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "focus.de"
+        }
+      ],
+      "datePublished": "2017-06-30T14:34:00.0000000Z",
+      "headline": true
+    },
+    {
+      "name": "Mallorca: Wie Polizei und Hotels Anschläge verhindern wollen",
+      "url": "http://www.stern.de/politik/ausland/mallorca--wie-polizei-und-hotels-anschlaege-verhindern-wollen-7517400.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.BB0163618D9AE18D8D157C22D0D8BE2A&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Am frühen Abend ist die Gegend um den Ballermann an Mallorcas Playa de Palma gut besucht - wie immer. Junge Männer in ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Stern"
+        }
+      ],
+      "datePublished": "2017-06-30T13:40:00.0000000Z",
+      "headline": true
+    },
+    {
+      "name": "Krise in Venezuela \"Es läuft auf einen Bürgerkrieg hinaus\"",
+      "url": "http://www.tagesschau.de/ausland/venezuela-interview-101.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.C39BAAFA1F8750607515AE625B59FD6B&pid=News",
+          "width": 256,
+          "height": 144
+        }
+      },
+      "description": "Seit April eskaliert die Gewalt in Venezuela. Der Deutsche Heinz Dieterich warnt im tagesschau.de-Interview: Ein Bürgerkrieg ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Tagesschau"
+        }
+      ],
+      "datePublished": "2017-06-29T14:46:00.0000000Z",
+      "headline": true
+    },
+    {
+      "name": "Protest gegen G20 Leicht entflammbar",
+      "url": "http://www.spiegel.de/politik/deutschland/linke-szene-protestiert-gegen-g20-in-hamburg-das-werden-polizeifestspiele-a-1154639.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.15F3CCC22E629876064D3964920E86A1&pid=News",
+          "width": 640,
+          "height": 359
+        }
+      },
+      "description": "Die Wut gegen den G20-Gipfel in Hamburg schweißt die zerstrittene linke Szene zusammen. Es geht um einen größeren Gegner: die ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Spiegel Online"
+        }
+      ],
+      "datePublished": "2017-06-30T15:14:00.0000000Z",
+      "headline": true
+    }
+  ]
+}
